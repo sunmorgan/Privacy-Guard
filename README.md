@@ -1,8 +1,8 @@
 # bytekode-2021
-### Making Privacy more accessible
+### Making Privacy More Accessible
 
 ## What This Is
-
+This is a tool that auto detect faces, license plates(cars), and paperwork(confidential/personal documents), and furthermore blurrs them out. This is generally used for individuals who have to edit videos/photos that is going to be posted online. Privacy is quite valued to many people, and therefore   
 
 ## What Inspired Me
 My cousin is a video editor for a club at his university, and he often has to stay up late to blur out confidential content e.g) school work, license plate on cars. I then wanted to create something that could automate those tasks for him; and I believe the use of object detection is prominent to complete this task. 
