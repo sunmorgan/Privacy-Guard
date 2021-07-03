@@ -17,3 +17,5 @@ Training a cascade classifer that works! After experiencing many unsucessful sta
 
 ## Challenges I Ran Into
 Before training a sucessful cascade classifer, I've failed a couple dozen times; and I could not find out the cause. So I had to list out all the possible factors that influence the success rate and eliminate them by implementing it one by one. Through the process of elimination, I came to two conclusions. **Number 1:** When choosing positive/negative cases, the positives has to be very similar in terms of the general features (shape, size, color, etc) if you decide to train with a limited amount of cases (anything below 500). And here comes **Number 2:**, the vice versa of 1, if you decide to have positive test cases that has a large diversity amongst its features, you should have a large amount of cases (at least 1000). 
+
+## What's Next For Privacy Guard
