@@ -3,7 +3,7 @@
 #What This Is
 
 
-#What Inspired Me\n
+#What Inspired Me
 My cousin is a video editor for a club at his university, and he often has to stay up late to blur out confidential content e.g) school work, license plate on cars. I then wanted to create something that could automate those tasks for him; and I believe the use of object detection is prominent to complete this task. 
 
 #What I Used
