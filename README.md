@@ -20,3 +20,6 @@ Before training a sucessful cascade classifer, I've failed a couple dozen times;
 
 ## What's Next For Privacy Guard
 The user's hands on experience with this app is very limited due to the fact that they have to process their image/video through a terminal. I am planning to create a website that hooks up the code by using frameworks like Flask or Django. 
+
+## What I learned
+Training my own cascade classifier. I've only used the default classifiers created by opencv for side projects I made previously; so training a cascade classifier was an undoubtly difficult step to take. Through my attempts, I've gained experience on the ratio positive and negative cases should be, and the quality for each folder.
