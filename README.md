@@ -1,4 +1,4 @@
-# ByteKode-2021 -- Privacy Guard
+# Privacy Guard
 ### Making Privacy More Accessible
 
 ## What It Does
